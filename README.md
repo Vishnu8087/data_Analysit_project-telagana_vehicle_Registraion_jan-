@@ -2,7 +2,7 @@
 Project Overview
 This project involves exploratory data analysis (EDA) on Telangana's vehicle registration data for January 2025. The data is sourced from the Telangana State Transport Department and aims to uncover insights into vehicle types, fuel usage, registration trends, and data quality.
 
-Objectives (Phase 1)
+Objectives (phase data preprocessing)
 Understand the dataset structure, types, and quality.
 
 Preprocess date fields and handle missing values.
